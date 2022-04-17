@@ -33,5 +33,5 @@ Underline 2
 - [Esto es un link al fichero index](index.html)
 
 # Imagenes
-![Logo GitHub](https://image.flaticon.com/icons/svg/25231.svg)
+![Logo GitHub](https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_960_720.png)
 
